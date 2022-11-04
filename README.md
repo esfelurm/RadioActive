@@ -12,7 +12,7 @@
 
 
 # screen shot 
-<a href="https://t.me/esfelurm" target="_blank"><img src="https://s6.uupload.ir/files/screenshot_20221104-110622_termux_4a8r.jpg" border="0"/></a>
+<a target="_blank"><img src="https://s6.uupload.ir/files/screenshot_20221104-110622_termux_4a8r.jpg" border="0"/></a>
 # orders 
 ```
 pkg install git
