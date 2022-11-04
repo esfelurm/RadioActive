@@ -12,7 +12,7 @@
 
 
 # screen shot 
-<a target="_blank"><img src="https://s6.uupload.ir/files/screenshot_20221104-110622_termux_4a8r.jpg" border="0"/></a>
+<img src="https://camo.githubusercontent.com/c0c89c4b19dfe297bcbd0709e1060fe219eabff85be54f9a13b0eac9998bb9c2/68747470733a2f2f73362e7575706c6f61642e69722f66696c65732f73637265656e73686f745f32303232313130342d3131303632325f7465726d75785f346138722e6a7067"border="0"/>
 # orders 
 ```
 pkg install git
