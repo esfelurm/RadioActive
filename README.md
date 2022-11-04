@@ -11,9 +11,8 @@
 
 
 # screen shot 
-<a href="https://t.me/esfelurm" target="_blank"><img src="https://s6.uupload.ir/files/polish_۲۰۲۲۱۱۰۴_۱۰۴۳۳۸۶۸۹_rw79.jpg" border="0"/></a>
+<a href="https://t.me/esfelurm" target="_blank"><img src="https://s6.uupload.ir/files/screenshot_20221104-110622_termux_4a8r.jpg" border="0"/></a>
 # orders 
-
 ```
 pkg install git
 
