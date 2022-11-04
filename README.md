@@ -6,11 +6,9 @@
 		    <li> ls : </li><p>Lists all files (You can also use commands related to the operating system )</p>
 		    <li> 0 : </li><p>Say the name of the desired file and then give the name of the output to be copied from the target system </p>
 		    <li> 1 : </li><p>Download the file from the target system </p>
-            </ul>
+                    <li> 2 : </li><p>Upload the file on the target system </p>
+                    <li> 3 : </li><p>Getting target system information </p>
 
-- 2 : Upload the file on the target system 
-
-- 3 : Getting target system information 
 
 # screen shot 
 <a href="https://t.me/esfelurm" target="_blank"><img src="https://s6.uupload.ir/files/polish_۲۰۲۲۱۱۰۴_۱۰۴۳۳۸۶۸۹_rw79.jpg" border="0"/></a>
